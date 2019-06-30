@@ -1,0 +1,20 @@
+{
+  "name": "londontemp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tempdisp.js",
+  "scripts": {
+    "test": "npm run wthrd.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.7.1",
+    "openweather-apis": "^4.0.0",
+    "threads": "^1.0.0-beta",
+    "tiny-worker": "^2.2.0",
+    "winston": "^3.2.1",
+    "xml2js": "^0.4.19",
+    "yahoo-weather": "^2.2.2"
+  }
+}
